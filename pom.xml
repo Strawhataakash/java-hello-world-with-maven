@@ -39,7 +39,7 @@
                             <transformers>
                                 <transformer
                                     implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-                                    <mainClass>hello.Hellomy1stWorld</mainClass>
+                                    <mainClass>hello.Hellomy2ndWorld</mainClass>
                                 </transformer>
                             </transformers>
                         </configuration>
